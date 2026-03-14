@@ -257,20 +257,6 @@ sudo chmod -R 777 storage bootstrap/cache
 ```bash
 php artisan migrate:fresh
 ```
-
-## 📧 Support
-
-Untuk pertanyaan atau issue, silakan hubungi:
-- Email: support@uin-alauddin.ac.id
-
-## 📄 License
-
-Copyright © 2025 UIN Alauddin Makassar. All rights reserved.
-
-## 🙏 Credits
-
-Developed with ❤️ for UIN Alauddin Makassar
-
 ---
 
 **Version**: 1.0.0  
